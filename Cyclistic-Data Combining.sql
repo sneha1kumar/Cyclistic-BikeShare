@@ -1,3 +1,4 @@
+USE BikeShare
 --COMBINING ALL THE TABLES
 DROP TABLE IF EXISTS [BikeShare].[combined_rides];
 
@@ -6,9 +7,9 @@ CREATE TABLE [BikeShare].[combined_rides]
 rideable_type nvarchar(50),
 started_at datetime2,
 ended_at datetime2,
-start_station_name nvarchar(255),
+start_station_name nvarchar(max),
 start_station_id nvarchar(255),
-end_station_name nvarchar(255),
+end_station_name nvarchar(max),
 end_station_id nvarchar (255),
 start_lat float,
 start_lng float,
@@ -186,7 +187,7 @@ SELECT count(*) as counts
 FROM BikeShare.dbo.april_2023 
 UNION ALL
 SELECT count(*) as counts
-FROM BikeShare.dbo.may_2023 ) AS counts --5059826 rows
+FROM BikeShare.dbo.may_2023 ) AS counts --5,829,030 rows
 
 SELECT count(*)
-FROM BikeShare.combined_rides --5059826 rows
+FROM BikeShare.combined_rides --5,829,030 rows
