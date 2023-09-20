@@ -78,6 +78,17 @@ Initial Findings: Members take more trips, yet casual riders are riding for long
 10. Starting Locations and Ending Locations--generally near downtown and social areas for both groups
 
 Summary:
+| Casual Riders | Annual Members |
+|---------|-----|
+| Riding bikes for longer periods of time but not as frequent as members| RIding bikes more frequently but for shorter periods of time|
+| Prefer using bikes during the weekends and in the summer    | Prefer using bikes during the weekdays and in the summer  | 
+| Hour of the day trips are generally in the evenings | Hour of the day trips are generally around 8am and 5pm  |
+
+## SHARE:
+
+## ACT:
+
+
 
     
 
