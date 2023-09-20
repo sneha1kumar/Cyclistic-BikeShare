@@ -85,7 +85,28 @@ Summary:
 | Hour of the day trips are generally in the evenings | Hour of the day trips are generally around 8am and 5pm  |
 
 ## SHARE & ACT:
-file:///C:/Users/Sneha/Downloads/Cyclistic%20Bike%20Share.pdf
+[Cyclistic-BikeSharePresentation.pdf](https://github.com/sneha1kumar/Cyclistic-BikeShare/blob/main/Cyclistic%20Bike%20Share.pdf)
+
+### Recommendations:
+#### 1. Summer Special
+- **Timing**: Both casual riders and annual members predominantly use Cyclistic bikes during the summer season. Therefore, summer is the ideal time to introduce a special promotion.
+- **Summer Special**: 
+  - During the months of June to August, we are offering a 10% discount on the cost of the annual membership for the first year of the subscription. 
+
+#### 2. Weekend Partnerships
+- **Weekend Focus**: Casual riders typically use our bikes on weekends, making this an excellent opportunity to engage with them.
+- **Partnerships with Local Venues**: Cyclistic can partner with local venues on weekends to promote their activities while providing discounts to our annual members.
+  - **Example**: Cyclistic partners with Giordano’s, a popular Chicago Deep Dish chain, by promoting their menu and specials. We also provide suggested routes to the nearest Giordano's using Cyclistic bikes. In return, Giordano’s offers special discounts on the weekends to those who arrive using Cyclistic bikes.
+
+#### 3. Lunch Hour and Rush Hour
+- **Usage Patterns**: Casual riders use the bikes the most during lunch hours (10 AM - 2 PM) and both casual and annual members take the most trips around rush hour (5 PM).
+- **Lunch Hour**: 
+  - We offer a convenient list of nearby lunch places that link to DoorDash or UberEats platforms. This allows members to place lunch orders ahead of time, promoting efficiency and convenience.
+- **Rush Hour**: 
+  - We launch a marketing campaign comparing the time saved by using Cyclistic bikes to being stuck in post-work traffic congestions. This campaign will emphasize the benefits of our service during rush hours.
+
+
+
 
 
 
