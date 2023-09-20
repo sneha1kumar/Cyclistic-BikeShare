@@ -1,6 +1,13 @@
 # Cyclistic-BikeShare
 Google Data Analytics Certificate Case Study
 
+**SQL CODES:** <br>
+[Data Combining.sql](https://github.com/sneha1kumar/Cyclistic-BikeShare/blob/main/Cyclistic-Data%20Combining.sql) <br>
+[Data Examining.sql](https://github.com/sneha1kumar/Cyclistic-BikeShare/blob/main/Cyclistic-Data%20Examining.sql) <br>
+[Data Cleaning.sql](https://github.com/sneha1kumar/Cyclistic-BikeShare/blob/main/Cyclistic-Data%20Cleaning.sql) <br>
+[Data Analysis.sql](https://github.com/sneha1kumar/Cyclistic-BikeShare/blob/main/Cyclistic-Data%20Analysis.sql) <br>
+
+
 **Tableau Visualizations:** <br>
 [Percentage of Member Type.png](https://github.com/sneha1kumar/Cyclistic-BikeShare/blob/main/Percentage%20of%20Member%20Type.png) <br>
 [Average Ride Length of Member Type.png](https://github.com/sneha1kumar/Cyclistic-BikeShare/blob/main/Average%20Ride%20Length%20of%20Member%20Types.png) <br>
