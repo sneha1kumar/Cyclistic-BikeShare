@@ -84,9 +84,8 @@ Summary:
 | Prefer using bikes during the weekends and in the summer    | Prefer using bikes during the weekdays and in the summer  | 
 | Hour of the day trips are generally in the evenings | Hour of the day trips are generally around 8am and 5pm  |
 
-## SHARE:
-
-## ACT:
+## SHARE & ACT:
+file:///C:/Users/Sneha/Downloads/Cyclistic%20Bike%20Share.pdf
 
 
 
