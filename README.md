@@ -65,7 +65,7 @@ Total Rows Removed: 1,457,691 rows
 Analysis: [Data Analysis.sql](https://github.com/sneha1kumar/Cyclistic-BikeShare/blob/main/Cyclistic-Data%20Analysis.sql)
 
 Trends and Relationships:
-1. Total Trips By Member Type--member_trips: 2662334 and casual_trips: 1709005
+1. Total Trips By Member Type--member_trips: 2,662,334 and casual_trips: 1,709,005
 2. Average Ride Length Per Member Type--member: 12.55 min and casual: 23.11 min
 Initial Findings: Members take more trips, yet casual riders are riding for longer during their trips.
 3. Bike Types--both groups favor classic bikes, but some casual riders use docked_bikes
