@@ -17,7 +17,7 @@ Google Data Analytics Certificate Case Study
 [Starting Locations.png](https://github.com/sneha1kumar/Cyclistic-BikeShare/blob/main/Starting%20Locations.png) <br>
 [Ending Locations.png](https://github.com/sneha1kumar/Cyclistic-BikeShare/blob/main/Ending%20Locations.png) <br>
 
-### Scenario: 
+## Scenario: 
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistice executives must approve our recommendations, so they must be backed up with compelling data insights and professional data visualizations. <br>
 
 ## What is Cyclistic? 
